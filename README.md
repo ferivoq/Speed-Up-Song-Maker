@@ -10,7 +10,7 @@ To deploy this project run
 
 ```bash
   git clone https://github.com/ferivoq/Speed-Up-Song-Maker.git
-  cd speedupsongmaker
+  cd Speed-Up-Song-Maker
   pip install pydub
   
   python main.py
